@@ -15,14 +15,6 @@ sudo yum install -y git
 # Clone the repository
 git clone https://github.com/GORLEABHILASH/7220.git
 
-# Fetch the public IP address
-PUBLIC_IP=$(curl -s http://169.254.169.254/latest/meta-data/public-ipv4)
-
-# Update the Song1.cshtml file with the public IP address
-sed -i "s|https://54.163.249.138:5001|https://${PUBLIC_IP}:5001|g" 7220/Assignment_2/Frontend/Pages/Song1.cshtml
-sed -i "s|https://54.163.249.138:5001|https://${PUBLIC_IP}:5001|g" 7220/Assignment_2/Frontend/Pages/Song2.cshtml
-sed -i "s|https://54.163.249.138:5001|https://${PUBLIC_IP}:5001|g" 7220/Assignment_2/Frontend/Pages/Song3.cshtml
-
 # Run Backend
 cd 7220/Assignment_2/Backend
 dotnet run &

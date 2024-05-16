@@ -2,17 +2,16 @@
 @model PrivacyModel
 @{
     ViewData["Title"] = "Song1";
-    var publicIp = Environment.GetEnvironmentVariable("PUBLIC_IP");
 }
 <h1>@ViewData["Title"]</h1>
 
-<div id="songContainer"></div>
+<div id="songContainer">
+</div>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-    var publicIp = '@publicIp';
     $.ajax({
-        url: 'https://' + publicIp + ':5001/api/song/song1',
+        url: 'https://54.163.249.138:5001/api/song/song1',
         type: 'GET',
         crossDomain: true,
         dataType: 'json',
