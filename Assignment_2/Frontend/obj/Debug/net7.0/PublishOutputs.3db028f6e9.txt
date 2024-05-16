@@ -1,0 +1,7 @@
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Frontend/bin/Debug/net7.0/publish/Frontend
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Frontend/bin/Debug/net7.0/publish/appsettings.Development.json
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Frontend/bin/Debug/net7.0/publish/appsettings.json
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Frontend/bin/Debug/net7.0/publish/Frontend.dll
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Frontend/bin/Debug/net7.0/publish/Frontend.deps.json
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Frontend/bin/Debug/net7.0/publish/Frontend.runtimeconfig.json
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Frontend/bin/Debug/net7.0/publish/Frontend.pdb

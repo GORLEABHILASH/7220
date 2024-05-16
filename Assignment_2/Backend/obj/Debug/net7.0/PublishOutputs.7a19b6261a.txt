@@ -1,0 +1,12 @@
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Backend
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/appsettings.Development.json
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/appsettings.json
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Backend.dll
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Backend.deps.json
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Backend.runtimeconfig.json
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Backend.pdb
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Microsoft.OpenApi.dll
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/abhilashkumargorle/Documents/7220/lecture_2/Assignment_2/Backend/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
